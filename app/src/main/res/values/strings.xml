@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">pertemuan-10</string>
+
+    <string name="content_text">Apple resmi mengumumkan adanya produk baru yakni iPhone 14 series sejak 7 September 2022. Ponsel dengan logo apel "kroak" ini dijadwalkan akan dipasarkan di Indonesia pada 4 November 2022. Adapun iPhone 14 series terdiri dari iPhone 14, iphone 14 Plus, iPhone 14 Pro, dan iPhone 14 Pro Max
+    </string>
+
+    <string name="content_specs_display">LTPO Super Retina XDR OLED, 120Hz, HDR10, Dolby Vision, 1000 nits (typ), 2000 nits (HBM)\n6.7 inches, 110.2 cm2 (~88.3% screen-to-body ratio)\n1290 x 2796 pixels, 19.5:9 ratio (~460 ppi density)\nCeramic Shield glass</string>
+    <string name="content_specs_size">160.7 x 77.6 x 7.9 mm (6.33 x 3.06 x 0.31 in)\n240 g (8.47 oz)\n\nGlass front (Corning-made glass), glass back (Corning-made glass), stainless steel frame\n
+    </string>
+    <string name="content_specs_battery">Li-Ion 4323 mAh, non-removable (16.68 Wh)\nWired, PD2.0, 50% in 30 min (advertised)\n\n15W wireless (MagSafe)\n7.5W wireless (Qi)</string>
+    <string name="stock">Stock hanya 5 buah</string>
+    <string name="specification">Spesifikasi</string>
+    <string name="display">Display</string>
+    <string name="size">Size</string>
+    <string name="battery">Battery</string>
+    <string name="seller">Dijual oleh</string>
+    <string name="my_name">Benhard Simanullang</string>
+    <string name="buy">Beli</string>
+    <string name="call_cs">Hubungi CS</string>
+    <string name="dummy_value">Rp 17.900.000,00</string>
+    <string name="dummy_photos">1 photos</string>
+    <string name="terima_kasih_telah_melakukan_pembelian">Terima kasih telah melakukan pembelian</string>
+    <string name="pembayaran_berhasil">Pembayaran Berhasil</string>
+    <string name="total_pembayaran">Total Pembayaran</string>
+    <string name="bagaimana_pengalaman_transaksi_anda">Bagaimana Pengalaman Transaksi Anda?</string>
+</resources>
